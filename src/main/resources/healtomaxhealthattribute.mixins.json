@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.hamderber.healtomaxhealthattribute.mixin",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LivingEntityMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
